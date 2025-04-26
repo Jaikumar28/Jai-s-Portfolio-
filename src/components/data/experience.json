@@ -1,0 +1,16 @@
+[
+    
+    {
+      "id": 1,
+      "role": "Frontend Developer",
+      "organisation": "ETM Bikes",
+      "startDate": "Jan, 2023",
+      "endDate": "July, 2023",
+      "location": "Remote",
+      "experiences": [
+        "Worked on Company Website",
+        "Worked with the cross functional team"
+      ],
+      "imageSrc":"../assets/company/images.png"
+    }
+  ]

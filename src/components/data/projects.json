@@ -1,0 +1,67 @@
+[
+    {
+      "key": 1,
+      "title": "E-commerce Website",
+      "imageSrc": "https://cdn.pixabay.com/photo/2021/11/22/20/20/online-6817350_1280.jpg",
+      "description": "Amazon is a e-commerce website",
+      "source": "https://github.com/Jaikumar28/Amazon-Clone"
+    },
+    {
+      "key": 2,
+      "title": "Full-stack Food Order App",
+      "imageSrc": "https://cdn.pixabay.com/photo/2022/01/28/12/17/fast-food-6974507_1280.jpg",
+      "description": "Tomato is a fullstack-based food ordering app.",
+      "source": "https://github.com/Jaikumar28/fooddeliverywebsite"
+    },
+    {
+      "key": 3,
+      "title": "Gemini Clone",
+      "imageSrc": "https://cdn.pixabay.com/photo/2023/02/04/17/28/chat-7767693_1280.jpg",
+      "description": "Dynamic React web app for Google Gemini advertising platform.",
+      "source": "https://github.com/Jaikumar28/Gemini-Clone"
+    },
+    {
+      "key": 4,
+      "title": "Weather App",
+      "imageSrc": "https://cdn.pixabay.com/photo/2018/04/23/22/09/weather-3345746_1280.jpg",
+      "description": "A React weather app displaying current weather conditions.",
+      "source": "https://github.com/utkarsh9795/react_weather_app"
+    },
+    {
+      "key": 5,
+      "title": "ToDo List",
+      "imageSrc": "https://cdn.pixabay.com/photo/2020/05/30/09/53/todo-lists-5238324_1280.jpg",
+      "description": "A simple todo list application for managing tasks efficiently.",
+      "source": "https://github.com/Jaikumar28/TO-DO-App"
+    },
+    {
+      "key": 6,
+      "title": "Travelling Website",
+      "imageSrc": "../assets/skills/solo-traveller.jpg",
+      "description": "This project built with HTML , CSS for streamlined organization.",
+      "demo": "https://utkarsh-ems-anand.netlify.app",
+      "source": "https://github.com/Jaikumar28/Travelling-Website"
+    },
+    {
+      "key": 7,
+      "title": "Myntra Clone",
+      "imageSrc": "https://cdn.pixabay.com/photo/2021/11/22/20/20/online-6817350_1280.jpg",
+      "description": "Myntra clone using frontend",
+      "source": "https://github.com/Jaikumar28/Myntra-Clone"
+    },
+        {
+      "key": 8,
+      "title": "Razorpay Clone",
+      "imageSrc": "../assets/skills/razorpayy.png",
+      "description": "Razorpay clone using frontend",
+      "source": "https://github.com/Jaikumar28/Razorpay-clone"
+    },
+        {
+          "key": 9,
+          "title": "Weather Forcast",
+          "imageSrc": "../assets/skills/weather.jpeg",
+          "description": "Weather Forcast Website",
+          "source": "https://github.com/Jaikumar28/Weather-app"
+        }
+
+  ]
