@@ -17,6 +17,3 @@ This is my personal portfolio website built using **React** and **Tailwind CSS**
 - [Tailwind CSS](https://tailwindcss.com/)
 - [React Router](https://reactrouter.com/) – for page navigation
 - [EmailJS](https://www.emailjs.com/) – for contact form (optional)
-
-## 📂 Folder Structure
-
